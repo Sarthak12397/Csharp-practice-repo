@@ -541,54 +541,54 @@
 // Average calculator
 
 
-double totalsubjects = 5.0;
-Console.WriteLine("Enter your grades");
+//double totalsubjects = 5.0;
+//Console.WriteLine("Enter your grades");
 
-Console.WriteLine("Enter your first subject");
-
-
-double subject1score =  double.Parse(Console.ReadLine());
+//Console.WriteLine("Enter your first subject");
 
 
-
-Console.WriteLine("Enter your second subject");
-
-
-double subject2score = double.Parse(Console.ReadLine());
+//double subject1score =  double.Parse(Console.ReadLine());
 
 
 
+//Console.WriteLine("Enter your second subject");
 
-Console.WriteLine("Enter your first subject");
 
-
-double subject3score = double.Parse(Console.ReadLine());
+//double subject2score = double.Parse(Console.ReadLine());
 
 
 
 
-Console.WriteLine("Enter your first subject");
+//Console.WriteLine("Enter your first subject");
 
 
-
-double subject4score = double.Parse(Console.ReadLine());
-
-
-
-Console.WriteLine("Enter your first subject");
-
-
-
-double subject5score = double.Parse(Console.ReadLine());
+//double subject3score = double.Parse(Console.ReadLine());
 
 
 
 
+//Console.WriteLine("Enter your first subject");
 
-double average = ((subject1score + subject2score + subject3score + subject4score + subject5score) / totalsubjects);
 
 
-Console.WriteLine($"Your average is {average}");
+//double subject4score = double.Parse(Console.ReadLine());
+
+
+
+//Console.WriteLine("Enter your first subject");
+
+
+
+//double subject5score = double.Parse(Console.ReadLine());
+
+
+
+
+
+//double average = ((subject1score + subject2score + subject3score + subject4score + subject5score) / totalsubjects);
+
+
+//Console.WriteLine($"Your average is {average}");
 
 
 
@@ -646,10 +646,75 @@ Console.WriteLine($"Your average is {average}");
 
 //Console.ReadKey();
 
-int i = 0;
-while(i < 5){
+//int i = 0;
+//while(i > 5){
+//    i++;
 
-    Console.WriteLine(i);
+//    Console.WriteLine(i);
+//    // Bool, int, long, short, string, float, double
+//    // infinite loops are problems;
+//}
+//Console.ReadKey()
+//
+//;
+//Console.WriteLine("Enter go or stay");
+//string userchoice = Console.ReadLine();
 
-    Console.ReadKey(); 
+//while (userchoice == "go") 
+//{
+//    Console.WriteLine("Life is good");
+//    Console.WriteLine("Wanna keep going go");
+//    userchoice = Console.ReadLine();
+//}
+//Console.WriteLine("You are staying");
+
+
+Console.WriteLine("Guess the number game the game where you have to guess the number");
+
+Random random = new Random();
+
+int targetnumber = random.Next(1,10);
+
+int guess = 0;
+int attempts = 0;
+bool isguessed = false;
+
+
+while (!isguessed)
+{
+
+    Console.WriteLine("Enter your guesses");
+    string input = Console.ReadLine();
+
+    if(int.TryParse(input, out guess))
+    {
+        attempts = attempts + 1; 
+        if(guess < targetnumber)
+        {
+            Console.WriteLine("Too low");
+            attempts = attempts + 1;
+            isguessed = false;
+        }
+        else if((guess > targetnumber))
+        {
+            Console.WriteLine("Too high");
+            attempts = attempts + 1;
+            isguessed = false;
+        }
+        else if(guess == targetnumber)
+        {
+            isguessed = true;
+            Console.WriteLine("Target number is " + targetnumber);
+            Console.WriteLine("Attempts is " + attempts);
+            break;
+        }
+        else
+        {
+            Console.WriteLine("Game is over ");
+            Console.ReadKey();
+            
+        }
+
+
+    }
 }

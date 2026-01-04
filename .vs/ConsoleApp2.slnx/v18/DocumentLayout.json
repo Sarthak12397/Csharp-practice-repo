@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\C# practices\\ConsoleApp2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c# practices\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c# practices\\consoleapp2\\consoleapp2\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c# practices\\consoleapp2\\consoleapp2\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c# practices\\consoleapp2\\consoleapp2\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c# practices\\consoleapp2\\consoleapp2\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c# practices\\consoleapp2\\consoleapp2\\mainstuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\mainstuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +34,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "weather.cs",
+              "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\weather.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\weather.cs",
+              "ToolTip": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\weather.cs",
+              "RelativeToolTip": "ConsoleApp2\\weather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:24:23.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T03:24:09.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mainstuff.cs",
+              "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\Mainstuff.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Mainstuff.cs",
+              "ToolTip": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\Mainstuff.cs",
+              "RelativeToolTip": "ConsoleApp2\\Mainstuff.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAqwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:39:59.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\Solution.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Solution.cs",
+              "ToolTip": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\Solution.cs",
+              "RelativeToolTip": "ConsoleApp2\\Solution.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T10:38:48.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\Methods.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Methods.cs",
+              "ToolTip": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\Methods.cs",
+              "RelativeToolTip": "ConsoleApp2\\Methods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T03:21:16.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FileName.cs",
               "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\FileName.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\FileName.cs",
               "ToolTip": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\FileName.cs",
               "RelativeToolTip": "ConsoleApp2\\FileName.cs",
-              "ViewState": "AgIAAMEAAAAAAAAAAAAAANYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T13:52:26.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:52:26.301Z"
             }
           ]
         }

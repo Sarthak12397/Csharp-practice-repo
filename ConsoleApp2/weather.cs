@@ -1,20 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Text;
 
-namespace ConsoleApp2
-{
-    internal class weather
-    {
+//namespace ConsoleApp2
+//{
+//    internal class weather
+//    {
 
 
-        string[] days =
-        {
+//        static void Main(string[] args)
+//        {
+//            Console.WriteLine("Enter the days to simulate: ");
 
-        };
-        static void Main(string[] args)
-        {
-            
-        }
-    }
-}
+
+//            }
+//        }
+//    }
+//}

@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\C# practices\\ConsoleApp2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c# practices\\consoleapp2\\consoleapp2\\currencyretry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\currencyretry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c# practices\\consoleapp2\\consoleapp2\\currencyretury3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\currencyretury3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c# practices\\consoleapp2\\consoleapp2\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c# practices\\consoleapp2\\consoleapp2\\cs50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\cs50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c# practices\\consoleapp2\\consoleapp2\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c# practices\\consoleapp2\\consoleapp2\\cs50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\cs50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\c# practices\\consoleapp2\\consoleapp2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{0BF52C80-90A9-AAB8-50BD-54373B8B4D6F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
@@ -46,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Solution.cs",
               "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\Solution.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Solution.cs",
@@ -59,12 +67,50 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-03T10:38:48.569Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "currencyretury3.cs",
+              "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\currencyretury3.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\currencyretury3.cs",
+              "ToolTip": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\currencyretury3.cs",
+              "RelativeToolTip": "ConsoleApp2\\currencyretury3.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAD8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T15:55:42.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "currencyretry.cs",
+              "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\currencyretry.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\currencyretry.cs",
+              "ToolTip": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\currencyretry.cs",
+              "RelativeToolTip": "ConsoleApp2\\currencyretry.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T15:44:59.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "currency.cs",
+              "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\currency.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\currency.cs",
+              "ToolTip": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\currency.cs",
+              "RelativeToolTip": "ConsoleApp2\\currency.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T15:15:04.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
@@ -72,12 +118,11 @@
               "RelativeToolTip": "ConsoleApp2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T14:30:28.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T14:30:28.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Methods.cs",
               "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\Methods.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Methods.cs",
@@ -85,12 +130,11 @@
               "RelativeToolTip": "ConsoleApp2\\Methods.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T14:30:21.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T14:30:21.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "weather.cs",
               "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\weather.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\weather.cs",
@@ -98,38 +142,23 @@
               "RelativeToolTip": "ConsoleApp2\\weather.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T14:30:20.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "currency.cs",
-              "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\currency.cs",
-              "RelativeDocumentMoniker": "ConsoleApp2\\currency.cs",
-              "ToolTip": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\currency.cs",
-              "RelativeToolTip": "ConsoleApp2\\currency.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T14:23:30.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Todolist.cs",
-              "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\Todolist.cs",
-              "RelativeDocumentMoniker": "ConsoleApp2\\Todolist.cs",
-              "ToolTip": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\Todolist.cs*",
-              "RelativeToolTip": "ConsoleApp2\\Todolist.cs*",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAowHIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T05:56:56.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T14:30:20.452Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Todolist.cs",
+              "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\Todolist.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Todolist.cs",
+              "ToolTip": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\Todolist.cs",
+              "RelativeToolTip": "ConsoleApp2\\Todolist.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAowHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T05:56:56.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\.gitignore",
               "RelativeDocumentMoniker": "ConsoleApp2\\.gitignore",
@@ -141,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Cs50.cs",
               "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\Cs50.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Cs50.cs",
@@ -149,12 +178,11 @@
               "RelativeToolTip": "ConsoleApp2\\Cs50.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T05:32:47.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T05:32:47.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FileName.cs",
               "DocumentMoniker": "D:\\C# practices\\ConsoleApp2\\ConsoleApp2\\FileName.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\FileName.cs",
@@ -162,8 +190,7 @@
               "RelativeToolTip": "ConsoleApp2\\FileName.cs",
               "ViewState": "AgIAAPQAAAAAAAAAAAAcwCkBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T13:52:26.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T13:52:26.301Z"
             }
           ]
         }
